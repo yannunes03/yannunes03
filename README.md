@@ -9,7 +9,7 @@
 * 💬 Me pergunte sobre: **Análise de dados, bussiness intelligence, Python, SQL, Power BI, Google Data Studio, Excel, Google Sheets**
 * 📫 Como me encontrar: [yan03rj@gmail.com](mailto:yan03rj@gmail.com)
 
-##### Um pouco mais da minha história:
+#### Um pouco mais da minha história:
 
 Graduado em administração de empresas, detenho ampla experiência de gestão, rotina e processos administrativos, bem como em análise e controle financeiro. Atuei em diversos segmentos, incluindo Transporte/fretamento aéreo, indústria naval, adquirência, saúde e gestão imobiliária. 
 
