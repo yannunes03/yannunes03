@@ -8,6 +8,7 @@
 * 🌱  Quanto aos meus estudos, estou **aprofundando meu conhecimento em Python e SQL com enfoque em análise e manipulação de dados**
 * 💬 Me pergunte sobre: **Análise de dados, bussiness intelligence, Python, SQL, Power BI, Google Data Studio, Excel, Google Sheets**
 * 📫 Como me encontrar: [yan03rj@gmail.com](mailto:yan03rj@gmail.com)
+* :raising_hand_man: Aberto e a procura de novas oportunidades.
 
 #### Um pouco mais da minha história:
 
