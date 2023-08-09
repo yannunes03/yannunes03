@@ -14,6 +14,6 @@
 
 Graduado em administração de empresas, detenho ampla experiência de gestão, rotina e processos administrativos, bem como em análise e controle financeiro. Atuei em diversos segmentos, incluindo Transporte/fretamento aéreo, indústria naval, adquirência, saúde e gestão imobiliária. 
 
-Atualmente estou em busca de novos desafios e migrar para a área de TI, mais precisamente para o campo de Big Data e análise de dados. Com esse objetivo em mente, decidir dar início à um tecnólogo em análise e desenvolvimento de Sistemas na Estácio em Junho de 2022.
+Me apaixonei e me encontrei com a área de dados e estou em busca em estabelecer uma carreira sólida e longígua no campo de Big Data. Com esse objetivo em mente, decidir dar início à um tecnólogo em análise e desenvolvimento de Sistemas na Estácio em Junho de 2022.
 
 Tenho por mim que conhecimento nunca é demais, e, assim como acontece na área tecnológica e no mundo em geral, a busca constante por aprimoramento e evolução é essencial. Por esta razão me mantenho aberto e em busca de novos conhecimentos. 
